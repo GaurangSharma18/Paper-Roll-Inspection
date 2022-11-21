@@ -13,7 +13,7 @@
 </head>
     <script>
         $(document).ready(function(){
-            function capture() {
+            function capture(picName) {
             console.log("click triggered")
           const captureElement = document.querySelector('.pipeLayout')
           html2canvas(captureElement)
@@ -25,7 +25,7 @@
             .then(canvas => {
               const image = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream')
               const a = document.createElement('a')
-              a.setAttribute('download', 'my-image.png')
+              a.setAttribute('download', picName+'.png')
               a.setAttribute('href', image)
               a.click()
               canvas.remove()
@@ -66,9 +66,9 @@
 
 
             },5000);
-
+            picNameCount = 0
             setInterval(function(){
-                capture()
+                capture(picNameCount)
             },800);
 
         });
