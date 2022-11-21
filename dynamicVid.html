@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <style>
+
+    </style>
+    <div class = "svgContainer">
+        <img class="pipeLayout" style="background-image: url( 'images/Texture1.jpg' );" src="svgs/dynamicHoles1.svg" alt="inspectionHoles">
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    
+</head>
+    <script>
+        $(document).ready(function(){
+
+            function randomIntFromInterval(min, max) { // min and max included 
+                return Math.floor(Math.random() * (max - min + 1) + min)
+            }
+
+            rndInt = randomIntFromInterval(2,31)
+            
+
+
+            count = 1
+            svgCount = 1
+            maxSVG = 2
+            maxImages = 45
+            svgArray = ['dynamicHoles']
+            BGimageArr = ['Texture1']
+        setInterval(function(){
+            setBGImage = "url(\"images/Texture"+ count +".jpg\");"
+            svgName = "dynamicHoles" + svgCount
+            $('.pipeLayout').remove();
+            $('.svgContainer').prepend("<img class='pipeLayout' style='background-image: "+ setBGImage +"' src='svgs/"+svgName+".svg' alt='inspectionHoles'>");
+            count += 1
+            svgCount += 1
+            if (count == maxImages){
+                count = 1
+            }
+            if (svgCount == maxSVG){
+                svgCount = 1
+            }
+            
+            svgArray.push(svgName)
+            BGimageArr.push("Texture"+ count)
+            console.log(BGimageArr)
+            console.log(svgArray)
+            },5000);
+
+        });
+        
+
+ </script>
+</body>
+</html>
