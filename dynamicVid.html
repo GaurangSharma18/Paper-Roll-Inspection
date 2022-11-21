@@ -13,7 +13,26 @@
 </head>
     <script>
         $(document).ready(function(){
+            function capture() {
+            console.log("click triggered")
+          const captureElement = document.querySelector('.pipeLayout')
+          html2canvas(captureElement)
+            .then(canvas => {
+              canvas.style.display = 'none'
+              document.body.appendChild(canvas)
+              return canvas
+            })
+            .then(canvas => {
+              const image = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream')
+              const a = document.createElement('a')
+              a.setAttribute('download', 'my-image.png')
+              a.setAttribute('href', image)
+              a.click()
+              canvas.remove()
+            })
+        }
 
+        
             function randomIntFromInterval(min, max) { // min and max included 
                 return Math.floor(Math.random() * (max - min + 1) + min)
             }
@@ -44,32 +63,15 @@
             
             svgArray.push(svgName)
             BGimageArr.push("Texture"+ count)
-            console.log(BGimageArr)
-            console.log(svgArray)
+
+
             },5000);
 
-        });
-        
-        function capture() {
-          const captureElement = document.querySelector('.pipeLayout')
-          html2canvas(captureElement)
-            .then(canvas => {
-              canvas.style.display = 'none'
-              document.body.appendChild(canvas)
-              return canvas
-            })
-            .then(canvas => {
-              const image = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream')
-              const a = document.createElement('a')
-              a.setAttribute('download', 'my-image.png')
-              a.setAttribute('href', image)
-              a.click()
-              canvas.remove()
-            })
-        }
+            setInterval(function(){
+                capture()
+            },800);
 
-        const btn = document.querySelector('#btn')
-        btn.addEventListener('click', capture)
+        });
 
  </script>
 </body>
