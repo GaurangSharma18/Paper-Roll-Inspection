@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="640px" height="480px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 64 48"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="lg1" x1="0.5" y1="1" x2="0.5" y2="0">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#FFF"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#6f4e37">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#FFF">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#6f4e37"/>
+      </linearGradient>
+
+    <linearGradient id="lg5" x1="0.5" y1="1" x2="0.5" y2="0">
+          <stop offset="30%" stop-opacity="1" stop-color="#FFF"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#FFF">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#FFF">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#FFF"/>
+      </linearGradient>
+
+        <linearGradient id="lg2" x1="0.5" y1="1" x2="0.5" y2="0">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#6a5445"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#fff">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#fff">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#6a5445"/>
+      </linearGradient>
+
+    <linearGradient id="lg4" x1="1" y1="0.5" x2="0" y2="0.5">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#665343"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#665343">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#fff">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#fff"/>
+      </linearGradient>
+
+
+        <radialGradient id="lg3" cx="0.25" cy="0.25" r="0.25">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#785e49"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#FFF">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#000">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#785e49"/>
+      </radialGradient>
+
+
+    <radialGradient id="lg6" cx="0.25" cy="0.25" r="0.5">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#7d4e2d"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#785e49">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#000">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#000"/>
+      </radialGradient>
+
+    <radialGradient id="lg7" cx="0.45" cy="0.35" r="0.5">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#7d4e2d"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#7d4e2d">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#000">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#000"/>
+      </radialGradient>
+
+    <radialGradient id="lg8" cx="0.15" cy="0.65" r="0.45">
+          <stop offset="30%" stop-opacity="0.5" stop-color="#6a5445"/>
+          <stop offset="40%" stop-opacity="1" stop-color="#7d4e2d">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s" begin="0s"/>
+          </stop>
+          <stop offset="40%" stop-opacity="0" stop-color="#000">
+            <animate attributeName="offset" values="0;1;0" repeatCount="indefinite" dur="10s"  begin="0s"/>
+          </stop>
+          <stop offset="100%" stop-opacity="0" stop-color="#000"/>
+      </radialGradient>
+
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#000;stroke-width:0.0093;stroke-miterlimit:2.61313}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+
+
+  </style>
+ </defs>
+ <g id="wrapper">
+  <g id="wrapper_inner">
+  <g id="Layer_x0020_1"><circle fill="#202020" fill-opacity="0.8" cx="2.65608813147947" cy="2.0" r="2.454892820804629"></circle><circle class="str0" cx="2.0" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="2.0" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="2.4279050057047487" cy="10.299999999999999" r="2.4395909785981216"></circle><circle class="str0" cx="2.0" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg7)"/><circle fill="#202020" fill-opacity="0.8" cx="2.0409243135599184" cy="18.599999999999998" r="2.426684996800362"></circle><circle class="str0" cx="2.0" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="2.3707012143158455" cy="26.9" r="2.4499439293487795"></circle><circle class="str0" cx="2.0" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="26.9" r="2.4000000000000004" fill="url(#lg4)"/><circle fill="#202020" fill-opacity="0.8" cx="2.4326257087051064" cy="35.199999999999996" r="2.42006057755119"></circle><circle class="str0" cx="2.0" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="2.4286054508835386" cy="43.49999999999999" r="2.4470712311208427"></circle><circle class="str0" cx="2.0" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="2.0" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg6)"/><circle fill="#202020" fill-opacity="0.8" cx="10.632942440377443" cy="2.0" r="2.420535142830923"></circle><circle class="str0" cx="10.299999999999999" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="2.0" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="10.985048834381566" cy="10.299999999999999" r="2.440888323262755"></circle><circle class="str0" cx="10.299999999999999" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="10.894035164241519" cy="18.599999999999998" r="2.445755922546933"></circle><circle class="str0" cx="10.299999999999999" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg1)"/><circle fill="#202020" fill-opacity="0.8" cx="10.524700790219159" cy="26.9" r="2.4575117973786726"></circle><circle class="str0" cx="10.299999999999999" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="26.9" r="2.4000000000000004" fill="url(#lg2)"/><circle fill="#202020" fill-opacity="0.8" cx="10.527098671552144" cy="35.199999999999996" r="2.4532466019489525"></circle><circle class="str0" cx="10.299999999999999" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="10.697002702114505" cy="43.49999999999999" r="2.426260896530543"></circle><circle class="str0" cx="10.299999999999999" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="10.299999999999999" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg7)"/><circle fill="#202020" fill-opacity="0.8" cx="18.612849378268056" cy="2.0" r="2.4355692248235634"></circle><circle class="str0" cx="18.599999999999998" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="2.0" r="2.4000000000000004" fill="url(#lg4)"/><circle fill="#202020" fill-opacity="0.8" cx="18.688502987431168" cy="10.299999999999999" r="2.436706904239575"></circle><circle class="str0" cx="18.599999999999998" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg4)"/><circle fill="#202020" fill-opacity="0.8" cx="18.803508082354842" cy="18.599999999999998" r="2.459648116410782"></circle><circle class="str0" cx="18.599999999999998" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="18.966668339581723" cy="26.9" r="2.4211719116158275"></circle><circle class="str0" cx="18.599999999999998" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="26.9" r="2.4000000000000004" fill="url(#lg6)"/><circle fill="#202020" fill-opacity="0.8" cx="18.963495161729494" cy="35.199999999999996" r="2.4338453184331814"></circle><circle class="str0" cx="18.599999999999998" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg2)"/><circle fill="#202020" fill-opacity="0.8" cx="18.833481260232055" cy="43.49999999999999" r="2.4279650427624326"></circle><circle class="str0" cx="18.599999999999998" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="18.599999999999998" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="27.624135677301993" cy="2.0" r="2.448622047914771"></circle><circle class="str0" cx="26.9" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="2.0" r="2.4000000000000004" fill="url(#lg1)"/><circle fill="#202020" fill-opacity="0.8" cx="27.625442833181914" cy="10.299999999999999" r="2.4516503280645625"></circle><circle class="str0" cx="26.9" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg6)"/><circle fill="#202020" fill-opacity="0.8" cx="27.40165741518168" cy="18.599999999999998" r="2.4381782016965285"></circle><circle class="str0" cx="26.9" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg4)"/><circle fill="#202020" fill-opacity="0.8" cx="27.31704721652797" cy="26.9" r="2.439661112553737"></circle><circle class="str0" cx="26.9" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="26.9" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="27.09948703336449" cy="35.199999999999996" r="2.4590860482093597"></circle><circle class="str0" cx="26.9" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="27.618024718971427" cy="43.49999999999999" r="2.426618598669071"></circle><circle class="str0" cx="26.9" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="26.9" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="35.73337245530963" cy="2.0" r="2.4241043381598963"></circle><circle class="str0" cx="35.199999999999996" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="2.0" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="35.67694913240217" cy="10.299999999999999" r="2.4256692614083217"></circle><circle class="str0" cx="35.199999999999996" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg1)"/><circle fill="#202020" fill-opacity="0.8" cx="35.43130979549692" cy="18.599999999999998" r="2.4345298759917644"></circle><circle class="str0" cx="35.199999999999996" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="35.87478208078666" cy="26.9" r="2.4593058188103702"></circle><circle class="str0" cx="35.199999999999996" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="26.9" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="35.890304789066725" cy="35.199999999999996" r="2.433985872198235"></circle><circle class="str0" cx="35.199999999999996" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg6)"/><circle fill="#202020" fill-opacity="0.8" cx="35.67911532337771" cy="43.49999999999999" r="2.4362435620108753"></circle><circle class="str0" cx="35.199999999999996" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="35.199999999999996" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="43.97389842040927" cy="2.0" r="2.430688828815309"></circle><circle class="str0" cx="43.49999999999999" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="2.0" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="43.81528330507866" cy="10.299999999999999" r="2.4566274087465385"></circle><circle class="str0" cx="43.49999999999999" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="43.510132138545465" cy="18.599999999999998" r="2.439587899761542"></circle><circle class="str0" cx="43.49999999999999" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="44.19808202138096" cy="26.9" r="2.459413398651414"></circle><circle class="str0" cx="43.49999999999999" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="26.9" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="44.12309240065451" cy="35.199999999999996" r="2.4402939390842744"></circle><circle class="str0" cx="43.49999999999999" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg6)"/><circle fill="#202020" fill-opacity="0.8" cx="44.04060525363365" cy="43.49999999999999" r="2.4428677285113376"></circle><circle class="str0" cx="43.49999999999999" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="43.49999999999999" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="52.125532123652086" cy="2.0" r="2.4366123257452106"></circle><circle class="str0" cx="51.8" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="2.0" r="2.4000000000000004" fill="url(#lg2)"/><circle fill="#202020" fill-opacity="0.8" cx="51.83300436404581" cy="10.299999999999999" r="2.454436428161627"></circle><circle class="str0" cx="51.8" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="51.80533774417925" cy="18.599999999999998" r="2.4552392977221635"></circle><circle class="str0" cx="51.8" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="51.99671247985409" cy="26.9" r="2.4200832735170925"></circle><circle class="str0" cx="51.8" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="26.9" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="52.28475210800547" cy="35.199999999999996" r="2.446208008610941"></circle><circle class="str0" cx="51.8" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg4)"/><circle fill="#202020" fill-opacity="0.8" cx="52.11386818018119" cy="43.49999999999999" r="2.429088100628453"></circle><circle class="str0" cx="51.8" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="51.8" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg7)"/><circle fill="#202020" fill-opacity="0.8" cx="60.48502514439284" cy="2.0" r="2.4395224617395836"></circle><circle class="str0" cx="60.099999999999994" cy="2.0" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="2.0" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="60.30471122036114" cy="10.299999999999999" r="2.43096484226091"></circle><circle class="str0" cx="60.099999999999994" cy="10.299999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="10.299999999999999" r="2.4000000000000004" fill="url(#lg2)"/><circle fill="#202020" fill-opacity="0.8" cx="60.508640724517356" cy="18.599999999999998" r="2.436192931721187"></circle><circle class="str0" cx="60.099999999999994" cy="18.599999999999998" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="18.599999999999998" r="2.4000000000000004" fill="url(#lg5)"/><circle fill="#202020" fill-opacity="0.8" cx="60.76630735746692" cy="26.9" r="2.4302748462634827"></circle><circle class="str0" cx="60.099999999999994" cy="26.9" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="26.9" r="2.4000000000000004" fill="url(#lg8)"/><circle fill="#202020" fill-opacity="0.8" cx="60.31753129160244" cy="35.199999999999996" r="2.432675451533988"></circle><circle class="str0" cx="60.099999999999994" cy="35.199999999999996" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="35.199999999999996" r="2.4000000000000004" fill="url(#lg3)"/><circle fill="#202020" fill-opacity="0.8" cx="60.26099045617244" cy="43.49999999999999" r="2.4421493247703445"></circle><circle class="str0" cx="60.099999999999994" cy="43.49999999999999" r="2.4000000000000004" fill="#000"/><circle class="str0" cx="60.099999999999994" cy="43.49999999999999" r="2.4000000000000004" fill="url(#lg4)"/></g>
+  </g>
+ </g>
+ <!--g id="Layer_x0020_1"></g-->
+</svg>
