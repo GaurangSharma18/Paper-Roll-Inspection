@@ -53,13 +53,13 @@
             $('.pipeLayout').remove();
             $('.svgContainer').prepend("<img class='pipeLayout' style='background-image: "+ setBGImage +"' src='svgs/"+svgName+".svg' alt='inspectionHoles'>");
             count += 1
-            svgCount += 1
+            //svgCount += 1
             if (count == maxImages){
                 count = 1
             }
-            if (svgCount == maxSVG){
-                svgCount = 1
-            }
+           //if (svgCount == maxSVG){
+            //    svgCount = 1
+            //}
             
             svgArray.push(svgName)
             BGimageArr.push("Texture"+ count)
